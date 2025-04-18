@@ -66,6 +66,10 @@ This E-Ticketing Platform is a Java application designed to manage all operation
 ### Service Layer
 - **TicketingService**: Coordinates operations and business logic
 
+### Utilitary Classes
+- **DataInitializer**: Initializes a set of predefined information for the purpose of demonstration/testing
+- **DemoOperations**: Runs a test with additional prints in order to showcase a normal output and working of the project
+
 ### Entry Point
 - **Main**: Initializes the system and demonstrates key functionalities
 
