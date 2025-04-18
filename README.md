@@ -119,14 +119,4 @@ The application includes a `Main` class that initializes sample data and showcas
 
 ---
 
-## Future Improvements
-- Graphical interface (web or desktop)
-- Replace in-memory storage with database persistence
-- Email notifications after ticket purchases
-- Advanced reporting and analytics
-- Promo code and discount support
-
----
-
-This project was developed as part of the Object-Oriented Programming course assignment.
 
